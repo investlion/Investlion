@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="InvestLion Logo" width="180"/>
+</p> 
 # Investlion # InvestLion (ILION)
 
 InvestLion is a utility-first crypto project built on BNB Smart Chain (BSC).
